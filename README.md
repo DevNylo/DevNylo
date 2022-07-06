@@ -2,7 +2,7 @@
 
 Não há muita coisa por aqui ja que estou em início de trabalhos e aprendizado, mas espero que você goste de algumas coisinhas que fiz com meu conhecimento atual.
 
-Iniciei meus estudo como Dev. em 04/2022, mas me interesso por programação desde a minha infância, sempre fui muito ligado a essa área mas só tive a oportunidade de levar a sério agora. Eu comecei a descobrir sobre programação quando la na minha infância eu tentava traduzir alguns programas e jogos que eu adorava em nossa língua nativa, acho que todo mundo comecou assim, viu um códido e se perguntou o que era e como funcionava, enfim eu não fui diferente.
+Iniciei meus estudo como Dev. em 04/2022, mas me interesso por programação desde a minha infância, sempre fui muito ligado a essa área e infelizmente só tive a oportunidade de levar a sério agora. Descobrir sobre programação quando la na minha infância eu tentava traduzir alguns programas e jogos que eu adorava para nossa língua nativa, acho que todo mundo comecou assim, viu um códido e se perguntou o que era e como funcionava, enfim eu não fui diferente.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right">
 
