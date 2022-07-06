@@ -21,7 +21,5 @@ Dei início em meus estudo como Dev. em 04/2022, mas me interesso por programaç
 </p>
 
 > ESTOU TOTALMENTE ABERTO A CRITICAS CONSTRUTIVAS ENTÃO POR FAVOR FIQUE A VONTADE PARA ME CONVENCER COM SUAS IDEIAS E CONHECIMENTOS, ESTOU APRENDENDO DE FORMA TOTALMENTE AUTODITADA ATÉ O INICIO DA MINHA GRADUAÇÃO EM ADS.
- 
-**Contato**
 
-![](https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.gif?raw=true)
+<img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.gif?raw=true" width="500"/>
