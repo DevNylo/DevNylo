@@ -23,7 +23,7 @@ Iniciei meus estudo como Dev. em 04/2022, mas me interesso por programação des
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
-<h3> Estou estudando ou pretendendo estudar:</h3>
+<h3> Estou estudando ou pretendo estudar:</h3>
 
 <a href="#" alt="HTML5">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><a/>
