@@ -4,7 +4,7 @@ Não há muita coisa por aqui ja que estou em início de trabalhos e aprendizado
 
 Iniciei meus estudo como Dev. em 04/2022, mas me interesso por programação desde a minha infância, sempre fui muito ligado a essa área e infelizmente só tive a oportunidade de levar a sério agora. Descobrir sobre programação quando la na minha infância eu tentava traduzir alguns programas e jogos que eu adorava para nossa língua nativa, acho que todo mundo comecou assim, viu um códido e se perguntou o que era e como funcionava, enfim eu não fui diferente.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right">
+<img src="https://github.com/DevNylo/DevNylo/blob/main/DNL-Logo" width="300" align="right">
 
 <p align="left">
   <a href="mailto: contato_dsr@hotmail.com" alt="Outlook">
