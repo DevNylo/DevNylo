@@ -4,7 +4,7 @@ Não há muita coisa por aqui ja que estou em início de trabalhos e aprendizado
 
 Iniciei meus estudo como Dev. em 04/2022, mas me interesso por programação desde a minha infância, sempre fui muito ligado a essa área e infelizmente só tive a oportunidade de levar a sério agora. Descobrir sobre programação quando la na minha infância eu tentava traduzir alguns programas e jogos que eu adorava para nossa língua nativa, acho que todo mundo comecou assim, viu um códido e se perguntou o que era e como funcionava, enfim eu não fui diferente.
 
-<img src="https://github.com/DevNylo/DevNylo/blob/main/Logo-DNL.svg" width="400" align="right">
+<img src="https://github.com/DevNylo/DevNylo/blob/main/Logo-DNL.svg" width="350" align="right">
 
 <p align="left">
   <a href="mailto: contato_dsr@hotmail.com" alt="Outlook">
@@ -54,4 +54,4 @@ Iniciei meus estudo como Dev. em 04/2022, mas me interesso por programação des
 
 > ESTOU TOTALMENTE ABERTO A CRITICAS CONSTRUTIVAS ENTÃO POR FAVOR FIQUE A VONTADE PARA ME CONVENCER COM SUAS IDEIAS E CONHECIMENTOS, ESTOU APRENDENDO DE FORMA TOTALMENTE AUTODITADA ATÉ O INICIO DA MINHA GRADUAÇÃO EM ADS.
 
-<img src="https://raw.githubusercontent.com/DevNylo/DevNylo/fca6fa2cfee2bc1d7b5452f41fb0a59c0b6d93c2/github-contribution-grid-snake.svg" width="500"/>
+<img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="500"/>
