@@ -1,7 +1,6 @@
 <h1>Faaala Dev :smirk_cat:</h1> 
 
-Para acessar o meu portifólio pega ai o seu cafezinho.<a href="https://devnylo.github.io/DevNylo-Portifolio/">:coffee:
-<a/>
+Para acessar o meu portifólio pega ai o seu cafezinho.<a href="https://devnylo.github.io/DevNylo-Portifolio/"><img src="https://raw.githubusercontent.com/DevNylo/DevNylo/6cede50e3c8295ec6f5193b6ba08b6ebfa0ed1a2/coffee.svg" width="32">👈<a/>
  
 > Nota: O portifólio ainda está em construção, então todo o conceito visual não reflete o resultado final. 
   
