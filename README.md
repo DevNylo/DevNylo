@@ -1,10 +1,13 @@
 <h1>Faaala Dev :smirk_cat:</h1> 
 
-Não há muita coisa por aqui ja que estou em início de trabalhos e aprendizado, mas espero que você goste de algumas coisinhas que fiz com meu conhecimento atual.
+Para acessar o meu portifólio pega ai o seu cafezinho.<a href="https://devnylo.github.io/DevNylo-Portifolio/">:coffee:
+<a/>
+ 
+> Nota: O portifólio ainda está em construção, então todo o conceito visual não reflete o resultado final. 
+  
+## Entre em contato comigo!
 
-Iniciei meus estudos na área em 04/2022, me interesso por tecnologia desde a minha infância, sempre fui muito ligado a essa área e infelizmente só tive a oportunidade de levar a sério agora. Descobri sobre programação quando la na minha infância eu tentava traduzir alguns programas e jogos na qual eu adorava, acho que todo mundo comecou assim, viu um códido e se perguntou o que era e como funcionava, enfim eu não fui diferente.
-
-<img src="https://github.com/DevNylo/DevNylo/blob/main/Logo-DNL.svg" width="350" align="right">
+<a href="https://devnylo.github.io/DevNylo-Portifolio/"><img src="https://github.com/DevNylo/DevNylo/blob/main/Logo-DNL.svg" width="350" align="right"></a>
 
 <p align="left">
   <a href="mailto: contato_dsr@hotmail.com" alt="Outlook">
