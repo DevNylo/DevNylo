@@ -6,7 +6,7 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
   
 ## Entre em contato comigo!
 
-<a href="https://devnylo.github.io/DevNylo-Portifolio/"><img src="https://github.com/DevNylo/DevNylo/blob/main/Logo-DNL.svg" width="350" align="right"></a>
+<img src="https://github.com/DevNylo/DevNylo/blob/main/Logo-DNL.svg" width="350" align="right"></a>
 
 <p align="left">
   <a href="mailto: contato_dsr@hotmail.com" alt="Outlook">
