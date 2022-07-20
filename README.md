@@ -1,6 +1,6 @@
-<h1>Faaala Dev :smirk_cat:</h1> 
+<h1>Faaala Dev :smirk_cat:</h1><img src="https://raw.githubusercontent.com/DevNylo/DevNylo/e7ed4617ce90c315745dfe41a7784e9bd4e734ea/coffee-cup.svg" width="32"></img> 
 
-Para acessar o meu portifólio, pega aí o seu cafezinho.<a href="https://devnylo.github.io/DevNylo-Portifolio/"><img src="https://raw.githubusercontent.com/DevNylo/DevNylo/e7ed4617ce90c315745dfe41a7784e9bd4e734ea/coffee-cup.svg" width="38">🔗<a/>
+Amante de um bom café e uma boa música, sou um prático entendedor quando o assunto é tecnologia, tudo que é novo para mim eu entendo com facilidade, me considero minimalista e um bom autodidata, atualmente trabalho como recepcionista em um ambulatório médico desde 2020 e lidar com pessoas e trabalho em equipe também se tornou simples. Iniciei meus estudos na área em 04/2022, me interesso por tecnologia desde a minha infância e sempre fui muito ligado a essa área e infelizmente só tive a oportunidade de levar a sério agora. Descobri sobre programação em minha infância, quando tentava traduzir alguns software e jogos na qual eu adorava, acho que todo mundo comecou assim, viu um códido e se perguntou o que era e como funcionava, enfim eu não fui diferente.
  
 > Nota: O portifólio ainda está em construção, então todo o conteúdo visual não reflete o resultado final. 
   
