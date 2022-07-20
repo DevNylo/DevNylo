@@ -56,4 +56,4 @@ Para acessar o meu portifólio, pega aí o seu cafezinho.<a href="https://devnyl
 
 > ESTOU TOTALMENTE ABERTO A CRITICAS CONSTRUTIVAS ENTÃO POR FAVOR FIQUE A VONTADE PARA ME CONVENCER COM SUAS IDEIAS E CONHECIMENTOS, ESTOU APRENDENDO DE FORMA TOTALMENTE AUTODITADA ATÉ O INICIO DA MINHA GRADUAÇÃO EM ADS.
 
-<img src="https://raw.githubusercontent.com/DevNylo/DevNylo/eb4958b5baafbb7b5640ea7983f566447f7f38bc/github-contribution-grid-snake.svg" width="500"/>
+<img src="https://raw.githubusercontent.com/DevNylo/DevNylo/6db375bd1fef9606b35ad0e4bc686d1feec42639/github-contribution-grid-snake.svg" width="600"/>
