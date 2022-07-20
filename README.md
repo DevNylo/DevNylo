@@ -2,7 +2,7 @@
 
 Amante de um bom café e uma boa música, sou um prático entendedor quando o assunto é tecnologia, tudo que é novo para mim eu entendo com facilidade, me considero minimalista e um bom autodidata, atualmente trabalho como recepcionista em um ambulatório médico desde 2020 e lidar com pessoas e trabalho em equipe também se tornou simples. Iniciei meus estudos na área em 04/2022, me interesso por tecnologia desde a minha infância e sempre fui muito ligado a essa área e infelizmente só tive a oportunidade de levar a sério agora. Descobri sobre programação em minha infância, quando tentava traduzir alguns software e jogos na qual eu adorava, acho que todo mundo comecou assim, viu um códido e se perguntou o que era e como funcionava, enfim eu não fui diferente.
  
-> Nota: O portifólio ainda está em construção, então todo o conteúdo visual não reflete o resultado final. 
+> Nota: O portifólio ainda está em construção.
   
 ## Entre em contato comigo!
 
