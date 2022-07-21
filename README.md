@@ -56,4 +56,4 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 
 > ESTOU TOTALMENTE ABERTO A CRITICAS CONSTRUTIVAS ENTÃO POR FAVOR FIQUE A VONTADE PARA ME CONVENCER COM SUAS IDEIAS E CONHECIMENTOS, ESTOU APRENDENDO DE FORMA TOTALMENTE AUTODITADA ATÉ O INICIO DA MINHA GRADUAÇÃO EM ADS.
 
-<img src="https://raw.githubusercontent.com/DevNylo/DevNylo/6db375bd1fef9606b35ad0e4bc686d1feec42639/github-contribution-grid-snake.svg" width="600"/>
+<img src="https://raw.githubusercontent.com/DevNylo/DevNylo/f6bb3850c2386d31a8b96c64509a38498ddee2bc/github-contribution-grid-snake.svg" width="600"/>
