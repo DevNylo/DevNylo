@@ -1,4 +1,4 @@
-<h1>Faaala Dev :smirk_cat:</h1><img src="https://raw.githubusercontent.com/DevNylo/DevNylo/e7ed4617ce90c315745dfe41a7784e9bd4e734ea/coffee-cup.svg" width="32"></img> 
+<h1>Faaala Dev :smirk_cat: <img src="https://raw.githubusercontent.com/DevNylo/DevNylo/e7ed4617ce90c315745dfe41a7784e9bd4e734ea/coffee-cup.svg" width="32"></img></h1> 
 
 Amante de um bom café e uma boa música, sou um prático entendedor quando o assunto é tecnologia, tudo que é novo para mim eu entendo com facilidade, me considero minimalista e um bom autodidata, atualmente trabalho como recepcionista em um ambulatório médico desde 2020, lidar com pessoas e trabalho em equipe também se tornou simples. Iniciei meus estudos na área em Abril de 2022 mas me interesso por tecnologia desde a minha infância e sempre fui muito ligado a essa área, infelizmente só tive a oportunidade de levar a sério agora. Descobri sobre programação quando meu maior desejo na época era ser um Game Developer, mas acabei me apaixonando por desenvolvimento de software.
  
