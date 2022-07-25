@@ -53,5 +53,5 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><a/>
   
 
-> I'm totally open to constructive criticism so please feel free to convince me with your ideas and knowledge, I'm learning in a totally self-taught way until the beginning of my graduation in ads. My english is not that good, but feel free to send me feedback.
+> I'm totally open to constructive criticism so please feel free to convince me with your ideas and knowledge, I'm learning in a totally self-taught way until the beginning of my graduation in Analysis and Development. My english is not that good, but feel free to send me feedback.
 <img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="550"/>
