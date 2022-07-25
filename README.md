@@ -1,6 +1,6 @@
-<h1>Faaala Dev :smirk_cat: <img src="https://raw.githubusercontent.com/DevNylo/DevNylo/e7ed4617ce90c315745dfe41a7784e9bd4e734ea/coffee-cup.svg" width="32"></img></h1> 
+<h1>Faaala Dev :smirk_cat: <img src="https://raw.githubusercontent.com/DevNylo/DevNylo/e7ed4617ce90c315745dfe41a7784e9bd4e734ea/coffee-cup.svg" width="32"></img></h1> <h3 align="right"><a href=""> English Version </a> </h3>
 
-Amante de um bom café e uma boa música, sou um prático entendedor quando o assunto é tecnologia, tudo que é novo para mim eu entendo com facilidade, me considero minimalista e um bom autodidata, atualmente trabalho como recepcionista em um ambulatório médico desde 2020, lidar com pessoas e trabalho em equipe também se tornou simples. Iniciei meus estudos na área em Abril de 2022 mas me interesso por tecnologia desde a minha infância e sempre fui muito ligado a essa área, infelizmente só tive a oportunidade de levar a sério agora. Descobri sobre programação quando meu maior desejo na época era ser um Game Developer, mas acabei me apaixonando por desenvolvimento de software.
+Amante de um bom café e uma boa música, sou um prático entendedor quando o assunto é tecnologia, tudo que é novo para mim eu entendo com facilidade, me considero minimalista e um bom autodidata. Atualmente trabalho como recepcionista em um ambulatório médico desde 2020, lidar com pessoas e trabalho em equipe também se tornou simples. Iniciei meus estudos na área em Abril de 2022 mas me interesso por tecnologia desde a minha infância e sempre fui muito ligado a essa área, infelizmente só tive a oportunidade de levar a sério agora. Descobri sobre programação quando meu maior desejo na época era ser um Game Developer, mas acabei me apaixonando por desenvolvimento de software.
  
 > Nota: O portifólio ainda está em construção.
   
@@ -20,9 +20,6 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 
   <a href="https://www.instagram.com/its_nyloo/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
-  <a href="https://pt.stackoverflow.com/users/296428/devnylo" alt="StackOverFlow">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
 <h3> Estou estudando ou pretendo estudar:</h3>
@@ -54,6 +51,6 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 <a href="#" alt="MySQL">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><a/>
 
-> ESTOU TOTALMENTE ABERTO A CRITICAS CONSTRUTIVAS ENTÃO POR FAVOR FIQUE A VONTADE PARA ME CONVENCER COM SUAS IDEIAS E CONHECIMENTOS, ESTOU APRENDENDO DE FORMA TOTALMENTE AUTODITADA ATÉ O INICIO DA MINHA GRADUAÇÃO EM ADS.
+> Estou totalmente aberto a criticas construtivas então por favor fique a vontade para me convencer com suas ideias e conhecimentos, estou aprendendo de forma totalmente autodidata até o inicio da minha graduação em ADS.
 
 <img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="550"/>
