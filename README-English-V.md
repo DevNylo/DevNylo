@@ -56,4 +56,4 @@
   
 
 > I'm totally open to constructive criticism so please feel free to convince me with your ideas and knowledge, I'm learning in a totally self-taught way until the beginning of my graduation in Analysis and Development. My english is not that good, but feel free to send me feedback.
-<img src="https://raw.githubusercontent.com/DevNylo/DevNylo/cb8da0f7f1cee5c7a6a37b14af1cdafe5edd0202/github-contribution-grid-snake.svg" width="600"/>
+<img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="600"/>
