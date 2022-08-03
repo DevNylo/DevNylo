@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/its_nyloo/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     
-<h3> I am studying or intend to study:</h3>
+<h3> I am currently studying: </h3>
 
 <a href="#" alt="HTML5">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><a/>
@@ -35,6 +35,8 @@
 
 <a href="#" alt="JavaScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a/>
+
+<h3> I still want to learn about: </h3>
 
 <a href="#" alt="ReactJS">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><a/>
