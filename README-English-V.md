@@ -12,8 +12,6 @@
   
 ### Contact me
 
-<img src="https://github.com/DevNylo/DevNylo/blob/main/Logo-DNL.svg" width="350" align="right"></a>
-
 <p align="left">
   <a href="mailto: contato_dsr@hotmail.com" alt="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
