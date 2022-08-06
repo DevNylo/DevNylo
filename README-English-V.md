@@ -2,6 +2,8 @@
 
 <h3 align="right"><a href="https://github.com/DevNylo"> Back to Profile </a> </h3>
 
+<img src="https://github.com/DevNylo/DevNylo/blob/main/Banner-git.JPG"></img>
+
 > About
 
 <p>Lover of good coffee and good music, I am a practical connoisseur when it comes to technology, everything that is new to me I understand easily, I consider myself a minimalist and a good self-taught. I currently work as a receptionist in a medical clinic since 2020, dealing with people and teamwork has also become simple. I started my studies in the area in April 2022 but I have been interested in technology since my childhood and I have always been very connected to this area, unfortunately I only had the opportunity to take it seriously now. I found out about programming when my biggest desire at the time was to be a Game Developer, but I ended up falling in love with software development.</p>
