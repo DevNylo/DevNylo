@@ -27,6 +27,9 @@
     
 <h3> I am currently studying: </h3>
     
+<a href="#" alt="JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a/>
+    
 <a href="#" alt="JAVA">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><a/>
 
@@ -55,9 +58,6 @@
 
 <a href="#" alt="MySQL">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><a/>
- 
-<a href="#" alt="JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a/>
   
 
 > I'm totally open to constructive criticism so please feel free to convince me with your ideas and knowledge, I'm learning in a totally self-taught way until the beginning of my graduation in Analysis and Development. My english is not that good, but feel free to send me feedback.
