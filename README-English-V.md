@@ -26,15 +26,15 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     
 <h3> I am currently studying: </h3>
+    
+<a href="#" alt="JAVA">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><a/>
 
 <a href="#" alt="HTML5">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><a/>
 
 <a href="#" alt="CSS">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><a/>
-
-<a href="#" alt="JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a/>
 
 <h3> I still want to learn about: </h3>
 
@@ -55,6 +55,9 @@
 
 <a href="#" alt="MySQL">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><a/>
+ 
+<a href="#" alt="JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a/>
   
 
 > I'm totally open to constructive criticism so please feel free to convince me with your ideas and knowledge, I'm learning in a totally self-taught way until the beginning of my graduation in Analysis and Development. My english is not that good, but feel free to send me feedback.
