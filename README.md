@@ -32,8 +32,8 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 <a href="#" alt="CSS">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><a/>
 
-<a href="#" alt="JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a/>
+<a href="#" alt="JAVA">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><a/>
 
 <h3> Ainda pretendo aprender sobre: </h3>
 
@@ -42,9 +42,6 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 
 <a href="#" alt="ReactJS">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><a/>
-
-<a href="#" alt="Python">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><a/>
 
 <a href="#" alt="Linux">
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/><a/>
