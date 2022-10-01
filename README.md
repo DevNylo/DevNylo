@@ -40,7 +40,8 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 
 <h3> Ainda pretendo aprender sobre: </h3>
 
-
+<a href = "#" alt="Spring">
+<img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 <a href="#" alt="Linux">
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/><a/>
