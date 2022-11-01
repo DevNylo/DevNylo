@@ -59,6 +59,6 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/><a/>
 
 
-> Estou totalmente aberto a criticas construtivas então por favor fique a vontade para me convencer com suas ideias e conhecimentos, estou aprendendo de forma totalmente autodidata até o inicio da minha graduação em ADS.
+> Estou totalmente aberto a sugestões.
 
 <img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="600"/>
