@@ -29,10 +29,25 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 <a href="#" alt="JAVA">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><a/>
 
-<h3> Ainda pretendo aprender sobre: </h3>
+<h3> Ainda irei estudar </h3>
+ 
+<a href="#" alt="ORACLE DB">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/><a/>
+ 
+<a href="#" alt="JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a/>
 
-<a href="#" alt="Kotlin">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/><a/>
+<a href="#" alt="HTML5">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><a/>
+
+<a href="#" alt="CSS">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><a/>
+
+<a href="#" alt="REACT">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><a/
+
+<a href="#" alt="REACT NATIVE">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><a/>
 
 <a href = "#" alt="Spring">
 <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -43,19 +58,9 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 <a href="#" alt="Git">
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/><a/>
 
-<a href="#" alt="MySQL">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><a/>
+<a href="#" alt="EXPO">
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/><a/>
 
-<h3> Dei uma pausa nos estudos. </h3>
-
-<a href="#" alt="JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a/>
-
-<a href="#" alt="HTML5">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><a/>
-
-<a href="#" alt="CSS">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><a/>
 
 > Estou totalmente aberto a criticas construtivas então por favor fique a vontade para me convencer com suas ideias e conhecimentos, estou aprendendo de forma totalmente autodidata até o inicio da minha graduação em ADS.
 
