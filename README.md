@@ -46,14 +46,11 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 <a href="#" alt="REACT">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><a/
 
-<a href="#" alt="REACT NATIVE">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><a/>
-
 <a href = "#" alt="Spring">
 <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-<a href="#" alt="Linux">
-<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/><a/>
+ 
+<a href="#" alt="REACT NATIVE">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><a/>
 
 <a href="#" alt="Git">
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/><a/>
