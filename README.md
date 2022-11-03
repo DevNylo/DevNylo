@@ -29,7 +29,7 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 <a href="#" alt="JAVA">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><a/>
 
-<h3> Ainda irei estudar </h3>
+<h3> Ainda irei estudar / Retomar </h3>
  
  <h4> SOFTWARE </h4>
  <a href="#" alt="JavaScript">
