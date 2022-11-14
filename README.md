@@ -24,7 +24,7 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h3> Atualmente estou estudando quais as melhores trilhas no momento para seguir </h3>
+<h3> Atualmente estou estudando quais as melhores trilhas no momento para seguir: </h3>
 
 <h3>Trilhas a definir</h3>
  
