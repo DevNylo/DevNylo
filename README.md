@@ -24,9 +24,8 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h3> Atualmente estou estudando quais as melhores trilhas no momento para seguir: </h3>
-
 <h3>Trilhas definidas</h3>
+> Estou totalmente aberto a sugestões.
  
  <h4> SOFTWARE </h4>
 <a href="#" alt="JAVA">
@@ -56,8 +55,5 @@ Amante de um bom café e uma boa música, sou um prático entendedor quando o as
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/><a/>
 <a href="#" alt="EXPO">
 <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/><a/>
-
-
-> Estou totalmente aberto a sugestões.
 
 <img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="600"/>
