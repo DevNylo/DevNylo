@@ -1,6 +1,6 @@
 <h1>Faaala Dev :smirk_cat: <img src="https://raw.githubusercontent.com/DevNylo/DevNylo/e7ed4617ce90c315745dfe41a7784e9bd4e734ea/coffee-cup.svg" width="32"></img></h1></h3>
 
-<img src="https://github.com/DevNylo/DevNylo/blob/main/Banner-git.JPG"></img>
+<img src="https://github.com/DevNylo/DevNylo/blob/1fd8f1fcba78b231a7bc5b8de82cf1b31f29d02f/LInkedinBanner.png"></img>
 
 > Sobre
 
