@@ -22,7 +22,7 @@
 </p>
 
 <h3>Trilhas definidas</h3>
-> Estou totalmente aberto a sugestões.
+>  Estou totalmente aberto a sugestões.
  
  <h4> SOFTWARE </h4>
 <a href="#" alt="JAVA">
