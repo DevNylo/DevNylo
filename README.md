@@ -2,13 +2,15 @@
 
 <img src="https://github.com/DevNylo/DevNylo/blob/1fd8f1fcba78b231a7bc5b8de82cf1b31f29d02f/LInkedinBanner.png"></img>
 
-> Sobre
+> <h3>Sobre</h3>
 
 <p>Amante de um bom café e uma boa música, sou um prático entendedor quando o assunto é tecnologia, tudo que é novo para mim eu entendo com facilidade, me considero minimalista e um bom autodidata. Atualmente trabalho como recepcionista em um ambulatório médico desde 2020, lidar com pessoas e trabalho em equipe também se tornou simples. Iniciei meus estudos na área em Abril de 2022 mas me interesso por tecnologia desde a minha infância e sempre fui muito ligado a essa área, infelizmente só tive a oportunidade de levar a sério agora. Descobri sobre programação quando meu maior desejo na época era ser um Game Developer, mas acabei me apaixonando por desenvolvimento de software.</p>
  
-> Nota: O portifólio ainda está em construção.
+> <h3>Portfólio</h3>
+
+<h3>https://devnylo.github.io/DevNylo-Portifolio/</h3>
   
-### Entre em contato comigo!
+> <h3>Contato</h3>
 
 <p align="left">
   <a href="mailto: contato_dsr@hotmail.com" alt="Outlook">
@@ -21,8 +23,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h3>Trilhas definidas</h3>
->  Estou totalmente aberto a sugestões.
+> <h3>Trilhas definidas</h3>
+Estou totalmente aberto a sugestões.
  
  <h4> SOFTWARE </h4>
 <a href="#" alt="JAVA">
