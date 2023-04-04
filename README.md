@@ -8,7 +8,7 @@
  
 > <h3>Portfólio</h3>
 
-<h3>https://devnylo.github.io/DevNylo-Portifolio/</h3>
+<h3>https://devnylo.github.io/DevNylo-Portfolio/</h3>
   
 > <h3>Contato</h3>
 
