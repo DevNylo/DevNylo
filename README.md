@@ -8,7 +8,7 @@
  
 > <h3>Portfólio</h3>
 
-<h3>http://devnylo.me/home/</h3>
+<h3>http://devnylo.me/</h3>
   
 > <h3>Contato</h3>
 
