@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
  
-> <h3>Estudando:</h3>
+> <h3>Estudando</h3>
 <a href="#" alt="JAVA">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><a/>
 <a href ="#" alt="Spring">
