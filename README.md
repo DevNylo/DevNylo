@@ -26,11 +26,9 @@
 > <h3>Trilhas definidas</h3>
 Estou totalmente aberto a sugestões.
  
- <h4> SOFTWARE </h4>
 <a href="#" alt="JAVA">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><a/>
 
- <h4> WEB </h4>
  <a href="#" alt="HTML5">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><a/>
  <a href="#" alt="CSS">
@@ -38,21 +36,13 @@ Estou totalmente aberto a sugestões.
  <a href="#" alt="JavaScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><a/>
 
- <h4> BANCO DE DADOS </h4>
 <a href="#" alt="MySql">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><a/>
 
- <h4> MOBILE </h4>
- <a href="#" alt="REACT NATIVE">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><a/>
- <h4> FRAMEWORKS </h4>
- <a href="#" alt="REACT">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 <a href ="#" alt="Spring">
 <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <a href="#" alt="Git">
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/><a/>
-<a href="#" alt="EXPO">
-<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/><a/>
 
 <img src="https://github.com/DevNylo/DevNylo/blob/output/github-contribution-grid-snake.svg" width="600"/>
